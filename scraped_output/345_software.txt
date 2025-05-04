@@ -1,0 +1,83 @@
+All Docs
+
+Software tools
+
+CLI
+
+Software tools
+
+Learn about the IDEs, Web Editor, CLI and all the software tools that you need to get your hands dirty.
+
+Arduino IDE
+
+Discover all the features of the Arduino IDE, our most popular programming tool.
+
+DISCOVER MORE
+
+Arduino IDE
+
+Arduino CLI
+
+Arduino CLI is a multifunctional tool with Boards/Library Managers, sketch builder for Arduino-compatible boards via command line.
+
+getting started
+
+Arduino CLI
+
+Arduino PLC IDE
+
+The Arduino solution to program PLC compatible Arduino devices using IEC 61131-3 standard languages (Windows only). Downloadable for free.
+
+DISCOVER MORE
+
+Arduino PLC IDE
+
+Browse Tutorials
+
+Legacy IDE
+
+Overview of the Arduino IDE 1
+
+Arduino IDE 1 Installation (Linux)
+
+Arduino IDE 1 Portable Installation
+
+Arduino IDE 1 Installation (Windows)
+
+Arduino Integrated Development Environment (IDE) v1
+
+view all
+
+Arduino IDE 2
+
+Getting Started with Arduino IDE 2
+
+Installing a Board Package in the IDE 2
+
+Downloading and installing the Arduino IDE 2
+
+How to upload a sketch with the Arduino IDE 2
+
+The Autocomplete Feature
+
+view all
+
+PLC IDE
+
+Arduino® PLC IDE Setup & Device License Activation
+
+Programming Introduction with Arduino PLC IDE
+
+Opta™ Digital Expansions Usage with the PLC IDE
+
+Opta™ Analog Expansion Usage with the PLC IDE
+
+Modbus Setup with Arduino PLC IDE
+
+view all
+
+Connect and Contribute
+
+Project HubGitHub RepositoryForum
+
+Product ComplianceHelp CenterTrademarks & Licensing

@@ -1,0 +1,51 @@
+Go Back
+
+Hardware
+
+Home / Hardware / Nano
+
+Nano
+
+The Arduino Nano is Arduino's classic breadboard friendly designed board with the smallest dimensions. The Arduino Nano comes with pin headers that allow for an easy attachment onto a breadboard and features a Mini-B USB connector.
+
+Get Started
+
+Nano
+
+Buy now
+
+Downloadable resources
+
+Pinout (PDF)
+
+Datasheet
+
+Schematics
+
+The classic Nano is the oldest member of the Arduino Nano family boards. It is similar to the Arduino Duemilanove but made for the use of a breadboard and has no dedicated power jack. Successors of the classic Nano are for example the Nano 33 IoT featuring a WiFi module or the Nano 33 BLE Sense featuring Bluetooth® Low Energy and several environment sensors.
+
+Communication
+
+I2C Protocol
+
+A communication protocol that can be used to set up communication between two boards.
+
+Documentation
+
+library
+
+Nano Form Factor
+
+Tiny footprint
+
+With a length of 45 mm and a width of 18 mm the Nano is Arduino's smallest board and weighs only 7 grams.
+
+Certifications
+
+Connect and Contribute
+
+Project HubGitHub RepositoryForum
+
+Product ComplianceHelp CenterTrademarks & Licensing
+
+Was this article helpful?

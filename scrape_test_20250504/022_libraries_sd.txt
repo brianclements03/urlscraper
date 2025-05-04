@@ -1,0 +1,97 @@
+SD | Arduino Documentation
+/
+ 
+ARDUINO.CC
+ 
+Home 
+/ 
+Programming 
+/ 
+Library 
+/ 
+SD 
+ 
+Data Storage 
+SD
+ GPL-3.0
+V1.3.0
+Arduino, SparkFun
+Arduino
+07/15/2024
+Enables reading and writing on SD cards. 
+ 
+Once an SD memory card is connected to the SPI interface of the Arduino board you can create files and read/write on them. You can also move through directories on the SD card.
+Go to repository
+Usage/Examples
+Compatibility
+Releases
+The SD library allows for reading from and writing to SD cards, e.g. on the Arduino Ethernet Shield. It is built on 
+sdfatlib
+ by William Greiman. The library supports FAT16 and FAT32 file systems on standard SD cards and SDHC cards. It uses short 8.3 names for files. The file names passed to the SD library functions can include paths separated by forward-slashes, /, e.g. "directory/filename.txt". Because the working directory is always the root of the SD card, a name refers to the same file whether or not it includes a leading slash (e.g. "/file.txt" is equivalent to "file.txt"). As of version 1.0, the library supports opening multiple files.
+The communication between the microcontroller and the SD card uses 
+SPI
+, which takes place on digital pins 11, 12, and 13 (on most Arduino boards) or 50, 51, and 52 (Arduino Mega). Additionally, another pin must be used to select the SD card. This can be the hardware SS pin - pin 10 (on most Arduino boards) or pin 53 (on the Mega) - or another pin specified in the call to SD.begin(). Note that even if you don't use the hardware SS pin, it must be left as an output or the SD library won't work.
+To use this library:
+1
+#include <SPI.h>
+2
+#include <SD.h>
+Notes on using the Library and various shields
+.
+Examples
+Card Info
+: Get info about your SD card.
+Datalogger
+: Log data from three analog sensors to an SD card.
+Dump File
+: Read a file from the SD card.
+Files
+: Create and destroy an SD card file.
+List Files
+: Print out the files in a directory on a SD card.
+Read Write
+: Read and write data to and from an SD card.
+SD class
+File class
+The SD class provides functions for accessing the SD card and manipulating its files and directories.
+ 
+begin()
+ 
+exists()
+ 
+mkdir()
+ 
+open()
+ 
+remove()
+ 
+rmdir()
+Was this article helpful?
+Connect and Contribute
+Project Hub
+GitHub Repository
+Forum
+Product Compliance
+Help Center
+Trademarks & Licensing
+© 2025 Arduino
+Terms Of Service
+Privacy Policy
+Security
+Cookie Settings
+ 
+
+
+
+
+
+
+×
+
+
+Notice
+We use cookie for technical purpose and, with your consent, also for analytical and profiling purpose as specified in our cookie policy. You can express your consent by selecting the cookies you intend to accept by clicking “Configure”.  If you wish to continue browsing without cookies that are not strictly necessary, you can deny consent by clicking on “Reject” or by closing this banner by clicking the x in the upper right corner.
+Press again to continue 0/1
+CONFIGURE
+REJECT
+ACCEPT

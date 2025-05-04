@@ -1,0 +1,67 @@
+Go Back
+
+Hardware
+
+Home / Hardware / Nano 33 IoT
+
+Nano 33 IoT
+
+The Arduino Nano 33 IoT combines the Arduino Nano form factor with an easy point of entry to basic IoT and pico-network applications. Whether you are looking at building a sensor network connected to your office or home router, or if you want to create a Bluetooth® Low Energy device sending data to a cellphone, the Nano 33 IoT is your one-stop-solution for many of the basic IoT application scenarios.
+
+Get Started
+
+Nano 33 IoT
+
+Buy now
+
+Downloadable resources
+
+Pinout (PDF)
+
+Datasheet
+
+Schematics
+
+Fritzing Files
+
+CAD Files
+
+The Arduino Nano 33 IoT is Arduino's smallest board to get started with Internet of Things (IoT). Using the popular Arm® Cortex®-M0 32-bit SAMD21 processor, it also features the powerful u-blox NINA-W102 Wi-Fi module and the ECC608A crypto-chip for security.
+
+Wi-Fi
+
+Arduino Cloud
+
+The Nano 33 IoT is compatible with the Arduino Cloud platform. Build IoT projects in just minutes!
+
+Go to Platform
+
+Bluetooth®
+
+Bluetooth®
+
+The Nano 33 IoT is Bluetooth® enabled allowing you to control peripheral devices via bluetooth and start implementing Bluetooth® Low Energy applications.
+
+Documentation
+
+Library
+
+IMU
+
+IMU
+
+The Nano 33 IoT comes with an IMU (LSM6DS3), combining an accelerometer and a gyroscope. Build your own motion tracking device and implement it in your projects.
+
+Documentation
+
+Library
+
+Certifications
+
+Connect and Contribute
+
+Project HubGitHub RepositoryForum
+
+Product ComplianceHelp CenterTrademarks & Licensing
+
+Was this article helpful?

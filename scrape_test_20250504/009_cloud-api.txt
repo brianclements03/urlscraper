@@ -1,0 +1,90 @@
+/
+ 
+ARDUINO.CC
+ 
+Programming
+Arduino IoT Cloud API
+Dashboards
+Devices
+Lora
+Network
+Properties
+Series
+Templates
+Things
+Triggers
+Arduino IoT Cloud API
+Provides a set of endpoints to manage Arduino IoT Cloud Devices, Things, Properties and Timeseries.
+Create Auth Token
+This API can be called just with any HTTP Client, or using one of these clients:
+Javascript NPM package
+Python PYPI Package
+Golang Module
+Token Generation Code
+You can find the code for generating tokens for compatible clients in the following sections.
+Here
+ you can find a complete guide on how to generate a token.
+CLIENT LIBRARY
+cURL
+Python
+Javascript
+curl --request POST \
+--url 
+'https://api2.arduino.cc/iot/v1/clients/token' \ 
+--header 
+'content-type: application/x-www-form-urlencoded' \ 
+--data 
+'grant_type=client_credentials' \ 
+--data 
+'client_id=YOUR_CLIENT_ID' \ 
+--data 
+'client_secret=YOUR_SECRET_ID' \ 
+--data 
+'audience=https://api2.arduino.cc/iot' 
+Rate Limiting
+Arduino IoT APIs are rate limited, authenticated clients limit is up to 10req/s. The following code and message are returned from the Arduino servers in case of rate limit error
+Status: 429 - Too Many Requests
+You have reached maximum request limit.
+Dashboards
+Devices
+Lora
+Network
+Properties
+Series
+Templates
+Things
+Triggers
+Dashboards V2
+Dashboards V2 List
+Dashboards V2 Create
+Dashboards V2 Delete
+Dashboards V2 Show
+Dashboards V2 Patch
+ 
+Dashboards V2 Update
+Dashboards V2 Clone
+Dashboards V2 RequestAccess
+Dashboards V2 ListShares
+Dashboards V2 Share
+ 
+Dashboards V2 DeleteShare
+Dashboards V2 Template
+Dashboards V2 Link
+Discover
+The Arduino Cloud is a online platform that makes it easy for you to create, deploy and monitor IoT projects.
+Arduino Cloud
+ 
+Connect and Contribute
+Project Hub
+GitHub Repository
+Forum
+Product Compliance
+Help Center
+Trademarks & Licensing
+© 
+2025
+ Arduino
+Terms Of Service
+Privacy Policy
+Security
+Cookie Settings

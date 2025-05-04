@@ -1,0 +1,47 @@
+Go Back
+
+Hardware
+
+Home / Hardware / MKR Zero
+
+MKR Zero
+
+The Arduino MKR Zero is a development board for music makers! With an SD card holder and dedicated SPI interfaces (SPI1), you are able to play music files without extra hardware.
+
+Get Started
+
+MKR Zero
+
+Buy now
+
+Downloadable resources
+
+Pinout (PDF)
+
+Schematics
+
+Fritzing Files
+
+CAD Files
+
+The MKR Zero board is a great board for getting started with various music projects. Using the popular Arm® Cortex®-M0 32-bit SAMD21 processor, it also comes with a micro SD card holder with dedicated SPI interfaces. The board is part of the MKR family, where you can choose from a large variety of shields to build projects out of the box with minimal effort!
+
+File
+
+Micro SD card holder
+
+Store large media files, build advanced UIs for displays or log data offline: extra space is always useful.
+
+Documentation
+
+library
+
+Certifications
+
+Connect and Contribute
+
+Project HubGitHub RepositoryForum
+
+Product ComplianceHelp CenterTrademarks & Licensing
+
+Was this article helpful?

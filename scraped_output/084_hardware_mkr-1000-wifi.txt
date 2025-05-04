@@ -1,0 +1,47 @@
+Go Back
+
+Hardware
+
+Home / Hardware / MKR 1000 WiFi
+
+MKR 1000 WiFi
+
+End of Life
+
+The Arduino MKR 1000 WiFi is the easiest point of entry to basic IoT and pico-network application design. Whether you are looking at setting up a sensor network for your office or building a smart home, the MKR 1000 WiFi will make that journey easy.
+
+Get Started
+
+MKR 1000 WiFi
+
+Downloadable resources
+
+Pinout (PDF)
+
+Schematics
+
+Fritzing Files
+
+CAD Files
+
+The MKR 1000 WiFi is a great choice for any beginner, maker or professional to get started with Internet of Things (IoT). Using the popular Arm® Cortex®-M0 32-bit SAMD21 processor, it also features the and the ECC508 crypto-chip for security. The board is part of the MKR family, where you can choose from a large variety of shields to build projects out of the box with minimal effort!
+
+Wi-Fi
+
+Wi-Fi
+
+This Wi-Fi module from Atmel is part of the SmartConnect family, with focus on power consumption and power saving modes.
+
+Documentation
+
+library
+
+Certifications
+
+Connect and Contribute
+
+Project HubGitHub RepositoryForum
+
+Product ComplianceHelp CenterTrademarks & Licensing
+
+Was this article helpful?

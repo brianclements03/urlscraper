@@ -1,0 +1,55 @@
+Go Back
+
+Hardware
+
+Home / Hardware / MKR NB 1500
+
+MKR NB 1500
+
+The Arduino MKR NB 1500 adds Narrowband communication to your projects. It can communicate over NB-IoT and LTE-M networks, and is excellent to use for low-power projects in remote areas. The MKR NB 1500 is also compatible with the Arduino Cloud, making it easy to access wherever you are in the world.
+
+Get Started
+
+MKR NB 1500
+
+Buy now
+
+Downloadable resources
+
+Pinout (PDF)
+
+Schematics
+
+Fritzing Files
+
+CAD Files
+
+The MKR NB 1500 brings NB-IoT / CAT-M1 connectivity to your projects. Using the popular Arm® Cortex®-M0 32-bit SAMD21 processor, it also features the powerful uBlox SARA-R410M-02B module and the ECC508 crypto-chip for security. The board is part of the MKR family, where you can choose from a large variety of shields to build projects out of the box with minimal effort!
+
+Cellular
+
+Network Connectivity
+
+This module can communicate over the LTE-M, NB-IoT and EGPRS networks and it is possible to send and receive SMS.
+
+Documentation
+
+library
+
+World Map
+
+Coverage
+
+NB-IoT and LTE-M coverage includes many regions, such as Europe, North & South America and large parts of Asia.
+
+Link to map
+
+Certifications
+
+Connect and Contribute
+
+Project HubGitHub RepositoryForum
+
+Product ComplianceHelp CenterTrademarks & Licensing
+
+Was this article helpful?

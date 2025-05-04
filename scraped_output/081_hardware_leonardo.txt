@@ -1,0 +1,51 @@
+Go Back
+
+Hardware
+
+Home / Hardware / Leonardo
+
+Leonardo
+
+The Leonardo differs from all preceding boards in that the ATmega32u4 has built-in USB communication, eliminating the need for a secondary processor. This allows the Leonardo to appear to a connected computer as a mouse and keyboard, in addition to a virtual (CDC) serial / COM port.
+
+Get Started
+
+Leonardo
+
+Buy now
+
+Downloadable resources
+
+Pinout (PDF)
+
+Schematics
+
+CAD Files
+
+The Arduino Leonardo is a microcontroller board based on the ATmega32u4. It has 20 digital input/output pins (of which 7 can be used as PWM outputs and 12 as analog inputs), a 16 MHz crystal oscillator, a micro USB connection, a power jack, an ICSP header, and a reset button. It contains everything needed to support the microcontroller; simply connect it to a computer with a USB cable or power it with a AC-to-DC adapter or battery to get started.
+
+USB
+
+USB communication
+
+The Arduino Leonardo has built-in USB communication that allows the Micro to appear as a mouse/keyboard on your machine.
+
+Keyboard Library
+
+Mouse Library
+
+Power
+
+Battery Connector
+
+The Arduino Leonardo features a barrel plug connector, that works great with a standard 9V battery to give extra power to your projects.
+
+Certifications
+
+Connect and Contribute
+
+Project HubGitHub RepositoryForum
+
+Product ComplianceHelp CenterTrademarks & Licensing
+
+Was this article helpful?

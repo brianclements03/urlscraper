@@ -1,0 +1,136 @@
+If Statement (Conditional Statement) | Arduino Documentation
+/
+ 
+ARDUINO.CC
+ 
+Home 
+/ 
+Programming 
+/ 
+Built-in Examples 
+/ 
+If Statement (Conditional Statement) 
+ 
+If Statement (Conditional Statement)
+Use an if statement to change the output conditions based on changing the input conditions.
+Last revision 
+10/02/2024
+The 
+if()
+ statement is the most basic of all programming control structures.  It allows you to make something happen or not, depending on whether a given condition is true or not.  It looks like this:
+1
+if
+ 
+(
+someCondition
+)
+ 
+{
+2
+// do stuff if the condition is true
+3
+}
+There is a common variation called if-else that looks like this:
+1
+if
+ 
+(
+someCondition
+)
+ 
+{
+2
+// do stuff if the condition is true
+3
+}
+ 
+else
+ 
+{
+4
+// do stuff if the condition is false
+5
+}
+There's also the else-if, where you can check a second condition if the first is false:
+1
+if
+ 
+(
+someCondition
+)
+ 
+{
+2
+// do stuff if the condition is true
+3
+}
+ 
+else
+ 
+if
+ 
+(
+anotherCondition
+)
+ 
+{
+4
+// do stuff only if the first condition is false
+5
+// and the second condition is true
+6
+}
+You'll use if statements all the time.  The example below turns on an LED on pin 13 (the built-in LED on many Arduino boards) if the value read on an analog input goes above a certain threshold.
+Hardware Required
+Arduino Board
+Potentiometer or variable resistor
+Circuit
+
+
+
+
+
+
+Schematic
+
+
+
+
+
+
+Code
+In the code below, a variable called 
+analogValue
+ is used to store the data collected from a potentiometer connected to the board on analogPin 0. This data is then compared to a threshold value. If the analog value is found to be above the set threshold the built-in LED connected to digital pin 13 is turned on. If analogValue is found to be 
+<
+ (less than) threshold, the LED remains off.
+Learn more
+You can find more basic tutorials in the 
+built-in examples
+ section.
+You can also explore the 
+language reference
+, a detailed collection of the Arduino programming language.
+Last revision 2015/07/29 by SM
+Suggest changes
+The content on 
+docs.arduino.cc
+ is facilitated through a public 
+GitHub repository
+. If you see anything wrong, you can edit this page 
+here
+.
+Need support?
+Help Center
+Ask the Arduino Forum
+Discover Arduino Discord
+License
+The Arduino documentation is licensed under the 
+Creative Commons Attribution-Share Alike 4.0
+ license.
+Was this article helpful?
+© 2025 Arduino
+Terms Of Service
+Privacy Policy
+Security
+Cookie Settings

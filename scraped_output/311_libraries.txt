@@ -1,0 +1,251 @@
+All docs
+
+Libraries
+
+Libraries
+
+The Arduino environment can be extended through the use of libraries. Libraries provide extra functionality for use in sketches. Discover how to installing libraries
+
+Sort by
+
+Found 7925 libraries
+
+Display
+
+lvgl
+
+MIT
+
+19449 Stars
+
+3589 Forks
+
+V9.2.2
+
+Full-featured Graphics Library for Embedded Systems
+
+kisvegabor
+
+kisvegabor,embeddedt,pete-pjb
+
+10/30/2024
+
+Data Processing
+
+ArduinoJson
+
+MIT
+
+6908 Stars
+
+1137 Forks
+
+V7.4.1
+
+A simple and efficient JSON library for embedded C++.
+
+Benoit
+
+Benoit Blanchon
+
+04/11/2025
+
+Display
+
+FastLED
+
+MIT License
+
+6856 Stars
+
+1693 Forks
+
+V3.9.16
+
+Multi-platform library for controlling dozens of different types of LEDs along with optimized math, effect, and noise functions.
+
+Daniel
+
+Daniel Garcia
+
+04/18/2025
+
+Communication
+
+WiFiManager
+
+MIT License
+
+6816 Stars
+
+2020 Forks
+
+V2.0.17
+
+WiFi Configuration manager with web configuration portal for Espressif ESPx boards, by tzapu
+
+tzapu
+
+tablatronix
+
+03/02/2024
+
+Communication
+
+IRremote
+
+License
+
+4696 Stars
+
+1783 Forks
+
+V4.4.1
+
+Send and receive infrared signals with multiple protocols
+
+shirriff,
+
+Armin Joachimsmeyer
+
+09/09/2024
+
+Communication
+
+Blinker
+
+MIT License
+
+4426 Stars
+
+237 Forks
+
+V0.3.10230510
+
+Build a easy way for your IoT project.
+
+i3water
+
+i3wawter
+
+02/15/2022
+
+Display
+
+TFT_eSPI
+
+License
+
+4127 Stars
+
+1196 Forks
+
+V2.5.43
+
+TFT graphics library for Arduino processors with performance optimisation for RP2040, STM32, ESP8266 and ESP32
+
+Bodmer
+
+Bodmer
+
+03/06/2024
+
+Communication
+
+Blynk
+
+MIT License
+
+3918 Stars
+
+1403 Forks
+
+V1.3.2
+
+Build a smartphone app for your project in minutes!
+
+Volodymyr
+
+Volodymyr Shymanskyy
+
+09/04/2023
+
+Communication
+
+PubSubClient
+
+MIT
+
+3909 Stars
+
+1483 Forks
+
+V2.8.0
+
+A client library for MQTT messaging.
+
+Nick
+
+Nick O'Leary
+
+05/20/2020
+
+Display
+
+Adafruit NeoPixel
+
+LGPL-3.0
+
+3214 Stars
+
+1291 Forks
+
+V1.12.5
+
+Arduino library for controlling single-wire-based LED pixels and strip.
+
+Adafruit
+
+Adafruit
+
+03/06/2025
+
+Device Control
+
+IRremoteESP8266
+
+LGPL-2.1
+
+3136 Stars
+
+851 Forks
+
+V2.8.6
+
+Send and receive infrared signals with multiple protocols (ESP8266/ESP32)
+
+David
+
+David Conran, Mark Szabo, Sebastien Warin, Roi Dayan, Massimiliano Pinto, Christian Nilsson
+
+07/28/2023
+
+Communication
+
+MFRC522
+
+Unlicense
+
+2881 Stars
+
+1471 Forks
+
+V1.4.12
+
+Arduino RFID Library for MFRC522 (SPI)
+
+GithubCommunity
+
+GithubCommunity
+
+02/17/2025

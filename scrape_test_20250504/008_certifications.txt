@@ -1,0 +1,149 @@
+/
+ 
+ARDUINO.CC
+ 
+Go Back
+Product Compliance
+Product Type
+ 
+Board
+Shield
+Carrier
+Kit
+Declarations of Conformity
+ 
+UKCA
+FCC
+CE
+Certifications
+ 
+UKCA
+FCC
+CE
+RoHS
+RCM
+MIC
+IC
+UL
+KC
+ENEC
+VCCI
+Product Compliance
+Filter by certification and product type on the sidebar, or 
+use the search bar below
+ to find a specific product by SKU or name.
+All Arduino Products are compliant with the following certifications:
+REACH
+CMRT
+PSTI
+SCIP
+ 
+Select All
+Found 
+180
+ Results
+Declarations of Conformity
+101
+ 
+board
+UKCA
+CE
+ Download (all)
+Declarations of Conformity
+4 Relays Shield
+ 
+shield
+CE
+UKCA
+ Download (all)
+Declarations of Conformity
+9 Axis Motion Shield
+ 
+shield
+CE
+UKCA
+ Download (all)
+Certifications
+Alvik
+ 
+kit
+CE
+FCC
+IC
+RCM
+UKCA
+RoHS
+ Download (all)
+Declarations of Conformity
+Alvik
+ 
+kit
+FCC
+CE
+UKCA
+ Download (all)
+Declarations of Conformity
+Automation Bot Bundle
+ 
+kit
+CE
+UKCA
+ Download (all)
+Certifications
+Braccio ++
+ 
+kit
+RCM
+CE
+FCC
+IC
+UKCA
+RoHS
+ Download (all)
+Declarations of Conformity
+Braccio ++
+ 
+kit
+UKCA
+CE
+ Download (all)
+Declarations of Conformity
+Certification Bundle
+ 
+kit
+CE
+UKCA
+ Download (all)
+Declarations of Conformity
+CTC 101
+ 
+kit
+CE
+UKCA
+ Download (all)
+Declarations of Conformity
+CTC GO! Core Module
+ 
+kit
+CE
+UKCA
+ Download (all)
+Declarations of Conformity
+CTC GO! Motions Expansion Pack
+ 
+kit
+CE
+FCC
+UKCA
+ Download (all)
+0
+ items selected 
+ 
+ 
+© 
+2025
+ Arduino
+Terms Of Service
+Privacy Policy
+Security
+Cookie Settings

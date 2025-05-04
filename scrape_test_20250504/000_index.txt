@@ -1,0 +1,88 @@
+/
+ 
+ARDUINO.CC
+ 
+ 
+Hardware
+ 
+Software
+ 
+Cloud
+ 
+Programming
+ 
+Learn
+ 
+Tutorials
+Rapid Access
+ 
+Libraries
+ 
+Language Reference
+ 
+Built-in Examples
+Arduino Documentation
+Browse through all our documentation to learn everything for your Arduino journey.
+Hardware
+The vital pieces of hardware documentation you need to start your Arduino projects.
+BROWSE HARDWARE
+ 
+Cloud
+Arduino Cloud is a online platform that allows you to create, deploy and monitor IoT projects.
+DISCOVER CLOUD
+ 
+Software
+Learn about the IDEs, Web Editor, CLI and all the software tools that you need to get your hands dirty.
+DISCOVER SOFTWARE
+ 
+Programming
+All you need to know to program with Arduino, including library documentation.
+START CODING
+ 
+Set Up Your Arduino Board
+Set up your Arduino board with this interactive tutorial. Don’t have any Arduino hardware yet? Have a look at our
+ 
+Store
+!
+Type to Search
+GET STARTED
+Discover
+Learn Arduino
+ 
+Knowledge, principles and techniques behind the Arduino ecosystem.
+Tutorials
+ 
+Discover all available Arduino official tutorials.
+Legacy
+ 
+History of Arduino through all the boards and other documentation released.
+Community
+Community Forum
+ 
+Find out topics and tips or connect with users from the Arduino Forum.
+Arduino Discord
+ 
+Official space for connecting with the Arduino community.
+YouTube channel
+ 
+Discover videos, tutorial, interview and podcast about Arduino world.
+Help Center
+ 
+FAQ and troubleshooting articles, created by the Support team.
+Project Hub
+ 
+Join millions of amazing Arduino community members worldwide.
+Connect and Contribute
+Project Hub
+GitHub Repository
+Forum
+Product Compliance
+Help Center
+Trademarks & Licensing
+© 
+2025
+ Arduino
+Terms Of Service
+Privacy Policy
+Security
+Cookie Settings

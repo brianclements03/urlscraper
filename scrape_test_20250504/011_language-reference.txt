@@ -1,0 +1,127 @@
+/
+ 
+ARDUINO.CC
+ 
+All Docs
+en
+en
+de
+pt
+Language Reference
+Functions
+Variables
+Structure
+Home
+ 
+/
+ 
+Programming
+ 
+/
+ 
+Language Reference
+ 
+ 
+Language Reference
+Arduino programming language can be divided in three main parts: functions, values (variables and constants), and structure.
+Functions
+Variables
+Structure
+For controlling the Arduino board and performing computations.
+Digital I/O
+digitalRead()
+digitalWrite()
+pinMode()
+Math
+abs()
+constrain()
+map()
+max()
+min()
+pow()
+sq()
+sqrt()
+Bits and Bytes
+bit()
+bitClear()
+bitRead()
+bitSet()
+bitWrite()
+highByte()
+lowByte()
+Analog I/O
+analogRead()
+analogReadResolution()
+analogReference()
+analogWrite()
+analogWriteResolution()
+Trigonometry
+cos()
+sin()
+tan()
+External Interrupts
+attachInterrupt()
+detachInterrupt()
+digitalPinToInterrupt()
+Advanced I/O
+noTone()
+pulseIn()
+pulseInLong()
+shiftIn()
+shiftOut()
+tone()
+Characters
+isAlpha()
+isAlphaNumeric()
+isAscii()
+isControl()
+isDigit()
+isGraph()
+isHexadecimalDigit()
+isLowerCase()
+isPrintable()
+isPunct()
+isSpace()
+isUpperCase()
+isWhitespace()
+Interrupts
+interrupts()
+noInterrupts()
+Time
+delay()
+delayMicroseconds()
+micros()
+millis()
+Random Numbers
+random()
+randomSeed()
+Communication
+SPI
+Print
+Serial
+Stream
+Wire
+USB
+Keyboard
+Mouse
+Wi-Fi
+Wi-Fi Overview
+WiFi Network
+IPAddress
+WiFiClient
+WiFiServer
+WiFiUDP
+Connect and Contribute
+Project Hub
+GitHub Repository
+Forum
+Product Compliance
+Help Center
+Trademarks & Licensing
+© 
+2025
+ Arduino
+Terms Of Service
+Privacy Policy
+Security
+Cookie Settings

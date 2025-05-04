@@ -1,0 +1,57 @@
+Print | Arduino Documentation
+/
+ 
+ARDUINO.CC
+ 
+Home 
+/ 
+Programming 
+/ 
+Language Reference 
+/ 
+Functions 
+/ 
+Print 
+ 
+Print
+Last revision 
+04/23/2025
+Description
+The Print class is an abstract base class that provides a common interface for printing data to different output devices. It defines several methods that allow printing data in different formats.
+Print class is related to several libraries in Arduino that use the printing functionality to interact with devices such as Serial Monitor, LCD Screen, printers, etc.
+Some of the libraries that use the Print class are:
+Serial
+LiquidCrystal
+Ethernet
+Wifi
+Functions
+write()
+print()
+println()
+See also
+Serial
+SPI
+stream
+Wire
+Suggest changes
+The content on 
+docs.arduino.cc
+ is facilitated through a public 
+GitHub repository
+. If you see anything wrong, you can edit this page 
+here
+.
+Need support?
+Help Center
+Ask the Arduino Forum
+Discover Arduino Discord
+License
+The Arduino documentation is licensed under the 
+Creative Commons Attribution-Share Alike 4.0
+ license.
+Was this article helpful?
+© 2025 Arduino
+Terms Of Service
+Privacy Policy
+Security
+Cookie Settings

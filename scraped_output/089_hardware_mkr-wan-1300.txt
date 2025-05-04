@@ -1,0 +1,65 @@
+Go Back
+
+Hardware
+
+Home / Hardware / MKR WAN 1300
+
+MKR WAN 1300
+
+The Arduino MKR WAN 1300 was the first LoRa® board released by Arduino, offering a practical and cost-effective solution with minimal power requirements. This open source board can connect to the Arduino Cloud, your own LoRa-based network using the Arduino LoRa® PRO Gateway, existing public networks such as The Things Network (TTN) or even other boards using direct connectivity mode.
+
+Get Started
+
+MKR WAN 1300
+
+Buy now
+
+Downloadable resources
+
+Pinout (PDF)
+
+Schematics
+
+Fritzing Files
+
+CAD Files
+
+The MKR WAN 1300 brings LoRa® connectivity to your projects. Using the popular Arm® Cortex®-M0 32-bit SAMD21 processor, it also features the powerful Murata CMWX1ZZABZ module and the ECC508 crypto-chip for security. The board is part of the MKR family, where you can choose from a large variety of shields to build projects out of the box with minimal effort!
+
+Cellular
+
+LoRa®-Based Network Connectivity
+
+Use LoRa® technology in remote places to send data to nearby gateways connected to the TTS service, which in turn forwards the data to the Arduino Cloud.
+
+Documentation
+
+World Map
+
+The Things Network
+
+Use the LoRa® wireless protocol to implement your own networks or connect to public networks such as The Things Network.
+
+Documentation
+
+library
+
+Communication
+
+Board-to-board
+
+Set up two Arduino MKR WAN 1300 to host a remote LED control system. Learn more about board-to-board communication and using LoRa® technology in your projects.
+
+Documentation
+
+library
+
+Certifications
+
+Connect and Contribute
+
+Project HubGitHub RepositoryForum
+
+Product ComplianceHelp CenterTrademarks & Licensing
+
+Was this article helpful?
