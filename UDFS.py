@@ -24,10 +24,12 @@ import re
 from urllib.parse import urlparse
 
 
+
+
 # ########################################################################################################################################################
 # Helper: Get internal links from a page. THE HELPER IS CREATING OUR LIST OF URLS TO SCRAPE
 # ########################################################################################################################################################
-def get_internal_links(url):
+def get_internal_links(url,driver,domain_filter,logger):
     time.sleep(random.uniform(1.0,2.5)) #Sleep betwen 1.0 and 2.5 seconds
     links = set()
     try:
@@ -40,14 +42,14 @@ def get_internal_links(url):
             href = tag['href']
             full_url = urljoin(url, href)
             parsed = urlparse(full_url)
-            if parsed.netloc.endswith(DOMAIN_FILTER) and parsed.scheme.startswith("http"):
+            if parsed.netloc.endswith(domain_filter) and parsed.scheme.startswith("http"):
                 clean_url = full_url.split('#')[0]
                 links.add(clean_url)
         logger.info(f"Links added for tracking for this level: {list(links)}")
     except Exception as e:
         print(f"Failed to fetch {url}: {e}")
         logger.warning(f"Response Exception: failed to fetch {url}: {e}")
-    return links
+    return links#, logger.info, logger.warning
 
 
 # #######################################################################################################################################################
@@ -98,7 +100,7 @@ def get_page_text_with_retry(driver, url, retries=2, wait_time=10, wait_for_sele
 # HELPERS FOR SAVING TO A SEPARATE FOLDER WITH CLEANER FILE NAMES AND JSON METADATA
 # #######################################################################################################################################################
 
-    def sanitize_url_for_filename(url):
+def sanitize_url_for_filename(url):
     # Strip scheme and convert slashes to underscores
     parsed = urlparse(url)
     path = parsed.path.strip("/")
