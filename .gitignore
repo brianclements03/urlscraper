@@ -1,8 +1,14 @@
+# document storage
+**/*scrape*/
+**/*scrape*/*
+**/*scrape*
+# But keep this placeholder
+!scraped_output/README.md
+
+
 # keys_etc
 *APIKey.*
 *recovery_code.*
-
-env.*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -109,6 +115,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+env.*
 
 # Spyder project settings
 .spyderproject
