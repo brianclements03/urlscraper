@@ -49,7 +49,7 @@ def get_internal_links(url,driver,domain_filter,logger):
     except Exception as e:
         print(f"Failed to fetch {url}: {e}")
         logger.warning(f"Response Exception: failed to fetch {url}: {e}")
-    return links#, logger.info, logger.warning
+    return links
 
 
 # #######################################################################################################################################################
